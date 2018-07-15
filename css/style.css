@@ -1,0 +1,54 @@
+body{
+    color: #242424;
+}
+img{
+    width: 70%;
+}
+.img-100{
+    width: 100%;
+}
+.section-one{
+    text-align: center;
+}
+.section-one h1.product-watt{
+    font-size: 118px;
+    color: #1ac0e5;
+    margin: 50px auto 0 auto;
+}
+.section-one .product-name{
+    font-size: 52px;
+}
+.section-one .product-desc{
+    font-size: 22px;
+    max-width: 1120px;
+    margin: auto;
+    line-height: 41.5px;
+    text-align: center;
+}
+.powerbankSty2-body{
+    margin-top: 40px;
+}
+.btn-df{
+    font-size: 44.12px;
+    color: white;
+    background: #1ac0e5;
+}
+.btn-buynow{
+    background: #a6ce39;
+}
+.btn-df img{
+    width: 47px;
+}
+.btn-df img, .btn-df span{
+    display: inline-block;
+    vertical-align: middle;
+}
+.powerbankSty2-btn{
+    margin-top: 130px;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width: 1470px;
+    }
+}
